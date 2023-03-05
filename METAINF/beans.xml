@@ -10,10 +10,10 @@
            http://www.springframework.org/schema/context
            http://www.springframework.org/schema/context/spring-context-4.3.xsd">
 
-<bean id="writer" class="writer.SimpleWriterImpl" />
+<bean id="writerBean" class="writer.SimpleWriterImpl" />
 
 <bean id="MySpringWriterBeanWithDependency" class="testbean.MySpringWriterBeanWithDependency">
-	<property name="writer" ref="writer" />
+	<property name="writer" ref="writerBean" />
 	</bean>
 
 </beans> 
