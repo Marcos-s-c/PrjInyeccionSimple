@@ -5,6 +5,8 @@
       <configuration>
         <fileset id="fileset" name="Beans" removed="false">
           <file>file://$MODULE_DIR$/META-INF/beans.xml</file>
+          <file>file://$MODULE_DIR$/METAINF/beans.xml</file>
+          <file>file://$MODULE_DIR$/METAINF/beans.xml</file>
         </fileset>
       </configuration>
     </facet>
