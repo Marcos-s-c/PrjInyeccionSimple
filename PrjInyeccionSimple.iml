@@ -16,7 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-aop-4.3.3.RELEASE.jar!/" />
@@ -25,7 +25,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-aspects-4.3.3.RELEASE.jar!/" />
@@ -34,7 +34,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-beans-4.3.3.RELEASE.jar!/" />
@@ -43,7 +43,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-context-4.3.3.RELEASE.jar!/" />
@@ -52,7 +52,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-context-support-4.3.3.RELEASE.jar!/" />
@@ -61,7 +61,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-core-4.3.3.RELEASE.jar!/" />
@@ -70,7 +70,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-expression-4.3.3.RELEASE.jar!/" />
@@ -79,7 +79,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-instrument-4.3.3.RELEASE.jar!/" />
@@ -88,7 +88,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-instrument-tomcat-4.3.3.RELEASE.jar!/" />
@@ -97,7 +97,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-jdbc-4.3.3.RELEASE.jar!/" />
@@ -106,7 +106,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-jms-4.3.3.RELEASE.jar!/" />
@@ -115,7 +115,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-messaging-4.3.3.RELEASE.jar!/" />
@@ -124,7 +124,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-orm-4.3.3.RELEASE.jar!/" />
@@ -133,7 +133,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-oxm-4.3.3.RELEASE.jar!/" />
@@ -142,7 +142,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-test-4.3.3.RELEASE.jar!/" />
@@ -151,7 +151,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-tx-4.3.3.RELEASE.jar!/" />
@@ -160,7 +160,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-web-4.3.3.RELEASE.jar!/" />
@@ -169,7 +169,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-4.3.3.RELEASE.jar!/" />
@@ -178,7 +178,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-webmvc-portlet-4.3.3.RELEASE.jar!/" />
@@ -187,7 +187,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/spring-framework-4.3.3.RELEASE/libs/spring-websocket-4.3.3.RELEASE.jar!/" />
@@ -196,7 +196,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lab3 componentes/commons-logging-1.2/commons-logging-1.2.jar!/" />
